@@ -9,3 +9,5 @@ temp-folder/
 
 # Ignore macOS metadata
 .DS_Store
+
+*.txt
